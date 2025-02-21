@@ -1,6 +1,6 @@
 ---
-description: List of available commands
 icon: square-code
+description: List of available commands
 ---
 
 # Commands List
@@ -30,7 +30,7 @@ Nitrocid KS currently provides the following commands (you can see their definit
 | `bulkrename`            | `<targetdir> <pattern> [newname]`                                                |
 | `cat`                   | `[-lines\|-nolines\|-plain] <file>`                                              |
 | `cdir`                  |                                                                                  |
-| `changes`               | `-online`                                                                        |
+| `changes`               | `[-online]`                                                                      |
 | `chattr`                | `<file> <add/rem> <attr>`                                                        |
 | `chdir`                 | `<directory/..>`                                                                 |
 | `chhostname`            | `<hostname>`                                                                     |

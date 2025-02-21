@@ -55,7 +55,7 @@
       * [Notes](fundamentals/simulated-kernel-features/extra-features/common-programs/notes.md)
       * [SSH Connection](fundamentals/simulated-kernel-features/extra-features/common-programs/ssh-connection.md)
       * [Stocks](fundamentals/simulated-kernel-features/extra-features/common-programs/stocks.md)
-      * [Stopwatch and Timer](fundamentals/simulated-kernel-features/extra-features/common-programs/stopwatch-and-timer.md)
+      * [Timers](fundamentals/simulated-kernel-features/extra-features/common-programs/stopwatch-and-timer.md)
       * [To-do List](fundamentals/simulated-kernel-features/extra-features/common-programs/to-do-list.md)
       * [Unit Converter](fundamentals/simulated-kernel-features/extra-features/common-programs/unit-converter.md)
       * [Weather](fundamentals/simulated-kernel-features/extra-features/common-programs/weather.md)
