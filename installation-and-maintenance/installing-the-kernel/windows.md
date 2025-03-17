@@ -29,14 +29,13 @@ However, we recommend that you have the below software installed on your compute
 
 There are several ways to install Nitrocid KS on Windows systems. We recommend installing KS using the Chocolatey package manager for simplicity.
 
-### Method 1: Windows Installer <a href="#method-1-windows-installer" id="method-1-windows-installer"></a>
+### Method 1: Windows Installer
 
 The Windows Installer method allows you to easily install Nitrocid KS.
 
-1. Download the latest Windows Installer ZIP file from [this page](https://github.com/Aptivi/Kernel-Simulator/releases)
-2. Unpack the ZIP archive to any folder of your choice using [7-Zip](https://7-zip.org/)
-3. Double-click on a single EXE file, and follow the instructions
-4. Go to your installation path and double-click on `Nitrocid.exe`.
+1. Download the latest Windows Installer EXE file from [this page](https://github.com/Aptivi/Kernel-Simulator/releases)
+2. Double-click on a single EXE file, and follow the instructions
+3. Double-click on `Nitrocid KS` in your desktop.
 
 ### Method 2: Chocolatey
 
